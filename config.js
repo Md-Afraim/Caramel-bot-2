@@ -38,6 +38,7 @@ module.exports = {
 
   nodes: [
     {
+        name: "Server"
         identifier: "Naig Node - 01",
         host: "lavalink01.techbyte.host",
         port: 2036,
