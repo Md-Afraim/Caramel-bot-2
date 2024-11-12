@@ -38,11 +38,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "Server"
-        identifier: "Naig Node - 01",
-        host: "lavalink01.techbyte.host",
-        port: 2036,
-        password: "NAIGLAVA-dash.techbyte.host",
+        name: "Working2",
+        host: "lavalink.clxud.dev",
+        port: 2333,
+        password: "youshallnotpass",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
